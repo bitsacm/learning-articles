@@ -1,0 +1,17 @@
+# cache/gen
+*.pyc
+__pycache__/
+*.zip
+
+# private
+secret.txt
+secret/
+*.priv
+
+# Trash
+*~
+*.db
+Desktop.ini
+.DS_Store
+.AppleDouble
+.LSOverride
