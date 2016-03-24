@@ -30,7 +30,7 @@ Learning C++ is very easy if you know C. I'll suggest that you start out with C 
 Even if you are not confident of your skills in a programming language, you can (and should) still start.
 Competitive programming is also a good way to practice a new language you have learned.
 
-## Start solving problems
+## Making the first step
 
 You'll find problems on many websites.
 
@@ -46,6 +46,7 @@ Here is a small list of the most popular ones:
 * [SPOJ](http://www.spoj.com/)
 * [Codeforces](http://codeforces.com/)
 * [HackerRank](https://www.hackerrank.com/domains)
+* [TopCoder](https://arena.topcoder.com/)
 * [HackerEarth](https://www.hackerearth.com/)
 
 Apart from that, there is also a website called [Project Euler](https://projecteuler.net/archives).
@@ -56,19 +57,45 @@ But once you have written the code, you just need to run it, find out the answer
 
 Sometimes it takes time to get used to online judges and Project Euler can help you easily start.
 But I recommend that if you choose to solve problems on Project Euler, do it only when starting out.
-It has advanced problems as well, but I think solving problems on online judges will help you learn faster and is a better use of your time.
+It has advanced problems as well, but I think solving problems on online judges will
+help you learn faster and is a better use of your time.
 
-You should stick to just one (or maybe two) online judges when you start out.
+You should stick to just one (or maybe two) online judges when you start.
 
-For beginners, I recommend Codechef. Codechef has problems categorized by difficulty levels.
+Most online judges have problems categorized by difficulty levels.
 For each difficulty level, easier problems generally have more submissions.
 So you can sort problems based on number of submissions to find the easiest ones.
 
-If you have never before solved a problems on an online judge, you should begin by solving
+For beginners, I recommend Codechef.
+If you have never before solved a problems on an online judge, you can begin by solving
 the easiest problem on Codechef - [Life, the Universe, and Everything](https://www.codechef.com/problems/TEST).
 You will have to read the [Input/Output tutorial](http://blog.codechef.com/2009/02/24/54/) to solve the problem.
 If you face problems, you can refer to [my solutions](https://www.codechef.com/status/TEST,sharmaeklavya2).
 I have submitted code in many languages, so you'll most likely find a solution in the language of your choice.
+
+SPOJ is also a good place to start.
+There are problems there even for people who are new to programming.
+
+## Practice
+
+Remember that it is very important to practice.
+Try to solve at least one or two questions everyday.
+
+It is helpful if you stay in touch with people who do competitive programming regularly.
+This will keep you motivated.
+
+Often while practicing, you will not be able to solve some problems.
+Do not give up easily! Keep trying!
+But sometimes even after trying for hours, we are not able to solve it.
+In those cases, it is advisable to look at the editorials.
+Editorials are step-by-step explanations on how to solve a problem.
+Often you'll find new innovative ways of solving problems on reading them.
+So sometimes you should read editorials even if you have been able to solve a problem.
+
+Sometimes reading editorials is not enough to understand how to solve a problem.
+This is usually the case when you know how to solve it but you are not able to express your ideas as code easily.
+When that happens, you should try looking at others' code.
+Some online judges make other people's code public (like Codechef) while some don't (like SPOJ).
 
 ## Contests
 
@@ -82,17 +109,28 @@ Cookoff has 5 questions to be solved in 2.5 hours.
 Regularly taking part in Cookoff and trying to perform better in it will increase your speed.
 I have never taken part in lunch time so I don't know much about it but it is probably similar to Cookoff.
 
-You should not be disheartened if you are able to solve only one or two questions. This is natural when starting out. As you get better, you'll be able to solve more and more. If you are not able to solve any question, you should contact someone senior and he/she will help you.
+You should not be disheartened if you are able to solve only one or two questions.
+This is natural when starting out. As you get better, you'll be able to solve more and more.
+If you are not able to solve any question, you should contact a senior and he/she will help you.
 
 When you have solved more than 50 to 75 problems, you should also start solving problems on Codeforces and taking part in Codeforces' contests.
-This is the site where the most serious programmers of the world can be found.
+This is one of the sites where the most serious programmers of the world can be found.
 
-## Practice makes perfect
-
-Remember that it is very important to practice.
-Try to solve at least one question everyday.
 With regular practice, you should become pretty good.
 One of my friends solved average 4 questions per day for a year and he recently got AIR 7 in a Codechef Long challenge!
 
-It is helpful if you stay in touch with people who do competitive programming regularly.
-This will keep you motivated.
+## Compiler
+
+One question I get asked sometimes is what compiler or IDE to use.
+
+If you have Linux or Mac, I would advise you to use:
+
+* gcc for C
+* g++ for C++
+* javac for Java (both oracle and openjdk are good)
+
+If you are on windows, you might want to use an IDE. Code::Blocks is good for C and C++. I haven't used IDEs for other languages so I can't help you there.
+
+There are also some online compilers available.
+The most well known is [ideone](https://ideone.com/).
+Codechef has an online compiler called [code-compile-run](https://www.codechef.com/ide).
