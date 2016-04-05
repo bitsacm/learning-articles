@@ -134,3 +134,25 @@ If you are on windows, you might want to use an IDE. Code::Blocks is good for C 
 There are also some online compilers available.
 The most well known is [ideone](https://ideone.com/).
 Codechef has an online compiler called [code-compile-run](https://www.codechef.com/ide).
+
+## Standard library
+
+You can often benefit a lot from the rich standard libraries offered by most programming languages.
+After gaining sufficient experience with a programming language,
+it is advisable to sift through its software libraries to see what all does it offer.
+
+For C/C++, these are good reference sites:
+
+* [cppreference.com](http://en.cppreference.com)
+* [cplusplus.com's reference](http://www.cplusplus.com/reference/)
+
+cppreference has the advantage of having an [offline version](http://en.cppreference.com/w/Cppreference:Archives#Html_book).
+However, cplusplus.com's reference is better when you are unfamiliar with the things you are reading about
+(which will generally happen with relatively advanced concepts like iterators and STL containers).
+cplusplus.com has better explanations for these topics.
+
+Some people realize very late that C++ offers a [sort function](http://www.cplusplus.com/reference/algorithm/sort/).
+This is one of the most used functions in competitive programming.
+
+* [Python library reference](https://docs.python.org/3/library/index.html)
+* [Java library reference](https://docs.oracle.com/javase/8/docs/api/overview-summary.html)
