@@ -1,6 +1,6 @@
 # Starting out with Competitive Programming
 
-(This guide is meant for beginners.
+(This article is meant for beginners.
 If you have solved 100+ problems and are looking for guidance on
 how to solve problems involving algorithms and data structures,
 this document is not for you.)

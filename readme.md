@@ -1,3 +1,4 @@
-# Guides
+# Learning Articles
 
-Learning guides by BITS-ACM. Main motive behind their creation is to help people in BITS-ACM learn.
+Articles by BITS-ACM to help people learn.
+They were written primarily for members of BITS-ACM, but they're mostly suitable for anyone.
