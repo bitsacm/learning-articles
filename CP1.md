@@ -17,15 +17,20 @@ So how to get started?
 ## Learn a programming language
 
 Any programming language will do.
-But most problems are set with C/C++ and Java programmers in mind, so knowing any one of them will be really helpful.
+But most problems are set with C/C++ and Java programmers in mind,
+so knowing any one of them will be really helpful.
 
 You don't need to know really advanced concepts, like classes or generics/templates.
-You should just know if/else, loops, arrays, functions and have some familiarity with the standard library, like math functions, string/array operations and input/output.
+You should just know if/else, loops, arrays, functions
+and have some familiarity with the standard library,
+like math functions, string/array operations and input/output.
 For C, `<string.h>`, `<stdio.h>`, `<math.h>`, `<stdlib.h>` will generally be sufficient to start.
 
 If you know only C, you can easily start.
-But at some point of time (especially when you reach advanced stages), you'll need features which most languages have but C does not.
-Learning C++ is very easy if you know C. I'll suggest that you start out with C and learn C++ in parallel with competitive programming.
+But at some point of time (especially when you reach advanced stages),
+you'll need features which most languages have but C does not.
+Learning C++ is very easy if you know C.
+If you already know C, you should start competitive programming in C and learn C++ in parallel.
 
 Even if you are not confident of your skills in a programming language, you can (and should) still start.
 Competitive programming is also a good way to practice a new language you have learned.
@@ -51,9 +56,11 @@ Here is a small list of the most popular ones:
 
 Apart from that, there is also a website called [Project Euler](https://projecteuler.net/archives).
 Project Euler does not ask you to submit code. It has direct problems.
-For example, their [problems 7](https://projecteuler.net/problem=7) asks you to find the 10001<sup>th</sup> prime and submit the answer.
+For example, their [problem 7](https://projecteuler.net/problem=7)
+asks you to find the 10001<sup>th</sup> prime and submit the answer.
 You'll need to write code to find this out (since you can't solve this by hand).
-But once you have written the code, you just need to run it, find out the answer, and submit the answer (not the code).
+But once you have written the code, you just need to run it,
+find out the answer, and submit the answer (not the code).
 
 Sometimes it takes time to get used to online judges and Project Euler can help you easily start.
 But I recommend that if you choose to solve problems on Project Euler, do it only when starting out.
@@ -93,7 +100,8 @@ Often you'll find new innovative ways of solving problems on reading them.
 So sometimes you should read editorials even if you have been able to solve a problem.
 
 Sometimes reading editorials is not enough to understand how to solve a problem.
-This is usually the case when you know how to solve it but you are not able to express your ideas as code easily.
+This is usually the case when you know how to solve it
+but you are not able to express your ideas as code easily.
 When that happens, you should try looking at others' code.
 Some online judges make other people's code public (like Codechef) while some don't (like SPOJ).
 
@@ -113,11 +121,13 @@ You should not be disheartened if you are able to solve only one or two question
 This is natural when starting out. As you get better, you'll be able to solve more and more.
 If you are not able to solve any question, you should contact a senior and he/she will help you.
 
-When you have solved more than 50 to 75 problems, you should also start solving problems on Codeforces and taking part in Codeforces' contests.
+When you have solved more than 50 to 75 problems,
+you should also start solving problems on Codeforces and taking part in Codeforces' contests.
 This is one of the sites where the most serious programmers of the world can be found.
 
 With regular practice, you should become pretty good.
-One of my friends solved average 4 questions per day for a year and he recently got AIR 7 in a Codechef Long challenge!
+One of my friends solved average 4 questions per day for a year
+and he recently got AIR 7 in a Codechef Long challenge!
 
 ## Compiler
 
@@ -129,7 +139,9 @@ If you have Linux or Mac, I would advise you to use:
 * g++ for C++
 * javac for Java (both oracle and openjdk are good)
 
-If you are on windows, you might want to use an IDE. Code::Blocks is good for C and C++. I haven't used IDEs for other languages so I can't help you there.
+If you are on windows, you might want to use an IDE.
+Code::Blocks is good for C and C++.
+I haven't used IDEs for other languages so I can't help you there.
 
 There are also some online compilers available.
 The most well known is [ideone](https://ideone.com/).
@@ -146,7 +158,8 @@ For C/C++, these are good reference sites:
 * [cppreference.com](http://en.cppreference.com)
 * [cplusplus.com's reference](http://www.cplusplus.com/reference/)
 
-cppreference has the advantage of having an [offline version](http://en.cppreference.com/w/Cppreference:Archives#Html_book).
+cppreference has the advantage of having an
+[offline version](http://en.cppreference.com/w/Cppreference:Archives#Html_book).
 However, cplusplus.com's reference is better when you are unfamiliar with the things you are reading about
 (which will generally happen with relatively advanced concepts like iterators and STL containers).
 cplusplus.com has better explanations for these topics.
