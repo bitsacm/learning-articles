@@ -5,7 +5,7 @@ Resources for learning them are also included.
 These appear roughly in decreasing order of importance in my opinion.
 They are easy and you can learn them in a short time.
 They have also been rated on the basis of difficulty
-by [Eklavya Sharma](https://github.com/sharmaeklavya2).
+by [Eklavya Sharma](https://github.com/sharmaeklavya2), the original author of this article.
 This rating is relative, so even a 5-star rating is not very hard.
 Time to learn a topic is roughly proportional to difficulty.
 It's okay to be [lazy](https://en.wikipedia.org/wiki/Lazy_evaluation)
