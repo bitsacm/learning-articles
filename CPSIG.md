@@ -1,14 +1,22 @@
 # ACM-CPSIG session
 
-16 October 2016
+16 October 2016  
+by [Eklavya Sharma](https://github.com/sharmaeklavya2)
 
 We will soon be having the first ACM Competitive Programming SIG session.
 
-I have put up a list of problems for you to solve. Try to solve as many as you can. Preferably attempt them in the same order as given here. You can solve the problems in any programming language you want.
+I have put up a list of problems for you to solve.
+Try to solve as many as you can.
+Preferably attempt them in the same order as given here.
+You can solve the problems in any programming language you want.
 
-For all problems, I have provided the name of a topic (and sometimes a link to an online resource). You need not know these topics to solve the problem, but knowing them can be helpful.
+For all problems, I have provided the name of a topic (and sometimes a link to an online resource).
+You need not know these topics to solve the problem, but knowing them can be helpful.
 
-If you attempt a problem and are unable to solve it, post the name of the problem here. Please do this ASAP because in the ACM-CPSIG session we will discuss your doubts and I will teach concepts you are not familiar with. I need some time to prepare for that.
+If you attempt a problem and are unable to solve it, post the name of the problem here.
+Please do this ASAP because in the ACM-CPSIG session we will discuss your doubts
+and I will teach concepts you are not familiar with.
+I need some time to prepare for that.
 
 ## Problems:
 

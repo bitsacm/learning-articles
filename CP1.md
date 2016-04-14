@@ -10,7 +10,7 @@ It is not only enjoyable but also very demanded in placements.
 Competitive programming will make you very good at writing efficient programs quickly.
 If you get really serious with competitive programming, it will make you an expert in data structures and algorithms.
 
-I recommend all Computer Science students to at least try it out.
+All Computer Science students are recommended to try it out.
 
 So how to get started?
 
@@ -63,8 +63,8 @@ But once you have written the code, you just need to run it,
 find out the answer, and submit the answer (not the code).
 
 Sometimes it takes time to get used to online judges and Project Euler can help you easily start.
-But I recommend that if you choose to solve problems on Project Euler, do it only when starting out.
-It has advanced problems as well, but I think solving problems on online judges will
+But if you choose to solve problems on Project Euler, do it only when starting out.
+It has advanced problems as well, but solving problems on online judges will
 help you learn faster and is a better use of your time.
 
 You should stick to just one (or maybe two) online judges when you start.
@@ -73,12 +73,12 @@ Most online judges have problems categorized by difficulty levels.
 For each difficulty level, easier problems generally have more submissions.
 So you can sort problems based on number of submissions to find the easiest ones.
 
-For beginners, I recommend Codechef.
+For beginners, Codechef is a good site.
 If you have never before solved a problems on an online judge, you can begin by solving
 the easiest problem on Codechef - [Life, the Universe, and Everything](https://www.codechef.com/problems/TEST).
 You will have to read the [Input/Output tutorial](http://blog.codechef.com/2009/02/24/54/) to solve the problem.
-If you face problems, you can refer to [my solutions](https://www.codechef.com/status/TEST,sharmaeklavya2).
-I have submitted code in many languages, so you'll most likely find a solution in the language of your choice.
+If you face problems, you can refer to [Eklavya's solutions](https://www.codechef.com/status/TEST,sharmaeklavya2).
+He has submitted code in many languages, so you'll most likely find a solution in the language of your choice.
 
 SPOJ is also a good place to start.
 There are problems there even for people who are new to programming.
@@ -115,7 +115,6 @@ Long Challenge has 10 questions to be solved in 10 days.
 You should try to solve as many questions as you can (without taking hints from others).
 Cookoff has 5 questions to be solved in 2.5 hours.
 Regularly taking part in Cookoff and trying to perform better in it will increase your speed.
-I have never taken part in lunch time so I don't know much about it but it is probably similar to Cookoff.
 
 You should not be disheartened if you are able to solve only one or two questions.
 This is natural when starting out. As you get better, you'll be able to solve more and more.
@@ -126,14 +125,14 @@ you should also start solving problems on Codeforces and taking part in Codeforc
 This is one of the sites where the most serious programmers of the world can be found.
 
 With regular practice, you should become pretty good.
-One of my friends solved average 4 questions per day for a year
-and he recently got AIR 7 in a Codechef Long challenge!
+One BITSian solved average 4 questions per day for a year
+and he got AIR 7 in a Codechef Long challenge!
 
 ## Compiler
 
-One question I get asked sometimes is what compiler or IDE to use.
+One frequently asked question is what compiler or IDE to use.
 
-If you have Linux or Mac, I would advise you to use:
+If you have Linux or Mac, it is best to use:
 
 * gcc for C
 * g++ for C++
@@ -141,7 +140,6 @@ If you have Linux or Mac, I would advise you to use:
 
 If you are on windows, you might want to use an IDE.
 Code::Blocks is good for C and C++.
-I haven't used IDEs for other languages so I can't help you there.
 
 There are also some online compilers available.
 The most well known is [ideone](https://ideone.com/).

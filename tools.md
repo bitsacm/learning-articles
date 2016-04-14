@@ -1,12 +1,23 @@
 # Tools for developers
 
-Here is a list of some topics/tools which I have frequently encountered in software development. I have also included resources for learning them. These appear roughly in decreasing order of importance in my opinion. They are easy and you can learn them in a short time. I have also rated them on the basis of difficulty. This rating is relative, so even a 5-star rating is not very hard. Time to learn a topic is roughly proportional to difficulty. It's okay to be [lazy](https://en.wikipedia.org/wiki/Lazy_evaluation) and learn them only when you need to.
+Here is a list of some topics/tools frequently encountered in software development.
+Resources for learning them are also included.
+These appear roughly in decreasing order of importance in my opinion.
+They are easy and you can learn them in a short time.
+They have also been rated on the basis of difficulty
+by [Eklavya Sharma](https://github.com/sharmaeklavya2).
+This rating is relative, so even a 5-star rating is not very hard.
+Time to learn a topic is roughly proportional to difficulty.
+It's okay to be [lazy](https://en.wikipedia.org/wiki/Lazy_evaluation)
+and learn them only when you need to.
 
 ## HTML
 
-HTML is used to write web pages. It is a very common text-based format for creating rich text.
+HTML is used to write web pages.
+It is a very common text-based format for creating rich text.
 
-To be a frontend or backend developer, you must know HTML. CSS is optional unless you are a frontend developer.
+To be a frontend or backend developer, you must know HTML.
+CSS is optional unless you are a frontend developer.
 
 **Resources:**
 
@@ -17,7 +28,8 @@ To be a frontend or backend developer, you must know HTML. CSS is optional unles
 
 ## Git
 
-Git a Version Control System. It is mainly used for collaborating on a project with a team.
+Git a Version Control System.
+It is mainly used for collaborating on a project with a team.
 
 **Resources:**
 
@@ -28,7 +40,9 @@ Git a Version Control System. It is mainly used for collaborating on a project w
 
 ## Markdown
 
-A text-based format for writing rich-text documents. Used on Wikipedia, Github, Slack and many other places. This post has been authored in markdown.
+A text-based format for writing rich-text documents.
+Used on Wikipedia, Github, Slack and many other places.
+This page has been authored in markdown.
 
 **Resources:**
 
@@ -39,7 +53,8 @@ A text-based format for writing rich-text documents. Used on Wikipedia, Github, 
 
 ## JSON
 
-JSON (JavaScript Object Notation) is a lightweight data format. Used in frontend, backend and other places.
+JSON (JavaScript Object Notation) is a lightweight data format.
+Used in web development and other places.
 
 **Resources:**
 
@@ -51,7 +66,11 @@ JSON (JavaScript Object Notation) is a lightweight data format. Used in frontend
 
 ## Regular expressions
 
-A regular expression (abbreviated regex or regexp) is a sequence of characters that define a search pattern, mainly for use in pattern matching. Used in text editors' find-and-replace, backend, sometimes competitive programming and many other places. It is supported in almost all programming languages.
+A regular expression (abbreviated regex or regexp) is a sequence of characters that define a search pattern,
+mainly for use in pattern matching.
+Used in text editors' find-and-replace, web and software development,
+sometimes competitive programming and many other places.
+It is supported in almost all programming languages.
 
 **Resources:**
 
@@ -61,7 +80,8 @@ A regular expression (abbreviated regex or regexp) is a sequence of characters t
 
 <!--## Web APIs
 
-Used to fetch data from a web service. It has interesting uses, like iterating over your facebook friends in a program. I havn't used them much.
+Used to fetch data from a web service.
+It has interesting uses, like iterating over your facebook friends in a program.
 
 **Resources:**
 
