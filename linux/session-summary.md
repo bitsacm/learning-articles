@@ -28,9 +28,9 @@ whatever you are learning, be it C/C++, Java, Python, web-dev or anything else.
         computer hardware and software resources and provides common services for computer programs)
     * Interfaces (GUI vs CLI) (kernel and interface make up an OS)
     * Advantages of CLI - repeatability, backup, remote access
-2. Terminal
+2. Terminal and terminal emulator
     * What is a prompt?
-    * Difference between terminal and shell
+    * Difference between terminal (emulator) and shell
 3. Paths
     * Tree structure
     * Multiple trees by drives letters in windows. Single root directory in Linux
