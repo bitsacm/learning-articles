@@ -1,4 +1,11 @@
-# Git
+---
+parent: index
+label: git
+title: Git
+bigtitle: Git
+---
+
+# {{page.bigtitle}}
 
 ## Why Git?
 

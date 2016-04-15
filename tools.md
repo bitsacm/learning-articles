@@ -1,4 +1,11 @@
-# Tools for developers
+---
+parent: index
+label: tools
+title: Tools
+bigtitle: Tools for developers
+---
+
+# {{page.bigtitle}}
 
 Here is a list of some topics/tools frequently encountered in software development.
 Resources for learning them are also included.

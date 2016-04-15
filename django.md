@@ -1,4 +1,11 @@
-# Learning Django
+---
+parent: index
+label: django
+title: Django
+bigtitle: Learning Django
+---
+
+# {{page.bigtitle}}
 
 by [Eklavya Sharma](https://github.com/sharmaeklavya2)
 

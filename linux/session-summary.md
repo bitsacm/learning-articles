@@ -1,4 +1,11 @@
-# Summary of the introductory session on Linux
+---
+parent: linux
+label: session-summary
+title: Linux session summary
+bigtitle: Summary of the introductory session on Linux
+---
+
+# {{page.bigtitle}}
 
 by [Eklavya Sharma](https://github.com/sharmaeklavya2)
 

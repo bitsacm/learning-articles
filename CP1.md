@@ -1,4 +1,11 @@
-# Starting out with Competitive Programming
+---
+parent: index
+label: CP1
+title: CP1
+bigtitle: Starting out with Competitive Programming
+---
+
+# {{page.bigtitle}}
 
 (This article is meant for beginners.
 If you have solved 100+ problems and are looking for guidance on

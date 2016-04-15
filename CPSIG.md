@@ -1,4 +1,11 @@
-# ACM-CPSIG session
+---
+parent: index
+label: CPSIG
+title: CPSIG
+bigtitle: ACM-CPSIG session
+---
+
+# {{page.bigtitle}}
 
 16 October 2016  
 by [Eklavya Sharma](https://github.com/sharmaeklavya2)
