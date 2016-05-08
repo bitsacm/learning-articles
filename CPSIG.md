@@ -1,6 +1,6 @@
 # ACM-CPSIG session
 
-16 October 2016  
+16 October 2015  
 by [Eklavya Sharma](https://github.com/sharmaeklavya2)
 
 We will soon be having the first ACM Competitive Programming SIG session.
