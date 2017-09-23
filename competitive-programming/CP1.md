@@ -31,9 +31,13 @@ But at some point of time (especially when you reach advanced stages),
 you'll need features which most languages have but C does not.
 Learning C++ is very easy if you know C.
 If you already know C, you should start competitive programming in C and learn C++ in parallel.
+> You may refer to [C to C++ for Competitive Programming](c2cpp.md) for a brief intro and resources after you solve [a few basic problems](#making-the-first-step) using C.
 
 Even if you are not confident of your skills in a programming language, you can (and should) still start.
 Competitive programming is also a good way to practice a new language you have learned.
+
+If you have no prior knowledge you can begin with [CS50 2016](http://cs50.tv/2016/fall/) (week 0 to week 5)
+The course teaches C which anyways is useful as it's a part of BITS curriculum.
 
 ## Making the first step
 
@@ -79,6 +83,11 @@ the easiest problem on Codechef - [Life, the Universe, and Everything](https://w
 You will have to read the [Input/Output tutorial](http://blog.codechef.com/2009/02/24/54/) to solve the problem.
 If you face problems, you can refer to [Eklavya's solutions](https://www.codechef.com/status/TEST,sharmaeklavya2).
 He has submitted code in many languages, so you'll most likely find a solution in the language of your choice.
+Also, Codechef has [screencasts](https://www.youtube.com/playlist?list=PLi0ZM-RCX5ntfqwXRirwA_pcufHinjllG) explaining this problem in C, C++ and Java.
+
+After this you can move on to more problems from [Codechef's beginner section](https://www.codechef.com/problems/school?sort_by=SuccessfulSubmission&sorting_order=desc).
+These problems require only basic knowledge of programming (arrays, strings, loops) and math/logic.
+The problems with code beginning with `FLOW` are particularly easy and helpful in getting aquainted with submissions on online judges.
 
 SPOJ is also a good place to start.
 There are problems there even for people who are new to programming.
@@ -135,7 +144,7 @@ One frequently asked question is what compiler or IDE to use.
 If you have Linux or Mac, it is best to use:
 
 * gcc for C
-* g++ for C++
+* gcc/g++ for C++
 * javac for Java (both oracle and openjdk are good)
 
 If you are on windows, you might want to use an IDE.
@@ -165,5 +174,6 @@ cplusplus.com has better explanations for these topics.
 Some people realize very late that C++ offers a [sort function](http://www.cplusplus.com/reference/algorithm/sort/).
 This is one of the most used functions in competitive programming.
 
+Links to documentation of other languages
 * [Python library reference](https://docs.python.org/3/library/index.html)
 * [Java library reference](https://docs.oracle.com/javase/8/docs/api/overview-summary.html)
