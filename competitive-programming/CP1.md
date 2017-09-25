@@ -5,7 +5,7 @@ If you have solved 100+ problems and are looking for guidance on
 how to solve problems involving algorithms and data structures,
 this document is not for you.)
 
-Competitive Programming is an interesting activity which mixes problem solving with programming.
+Competitive Programming is an interesting activity which mixes problem-solving with programming.
 It is not only enjoyable but also very demanded in placements.
 Competitive programming will make you very good at writing efficient programs quickly.
 If you get really serious with competitive programming, it will make you an expert in data structures and algorithms.
@@ -78,16 +78,16 @@ For each difficulty level, easier problems generally have more submissions.
 So you can sort problems based on number of submissions to find the easiest ones.
 
 For beginners, Codechef is a good site.
-If you have never before solved a problems on an online judge, you can begin by solving
+If you have never before solved problems on an online judge, you can begin by solving
 the easiest problem on Codechef - [Life, the Universe, and Everything](https://www.codechef.com/problems/TEST).
 You will have to read the [Input/Output tutorial](http://blog.codechef.com/2009/02/24/54/) to solve the problem.
 If you face problems, you can refer to [Eklavya's solutions](https://www.codechef.com/status/TEST,sharmaeklavya2).
 He has submitted code in many languages, so you'll most likely find a solution in the language of your choice.
 Also, Codechef has [screencasts](https://www.youtube.com/playlist?list=PLi0ZM-RCX5ntfqwXRirwA_pcufHinjllG) explaining this problem in C, C++ and Java.
 
-After this you can move on to more problems from [Codechef's beginner section](https://www.codechef.com/problems/school?sort_by=SuccessfulSubmission&sorting_order=desc).
+After this, you can move on to more problems from [Codechef's beginner section](https://www.codechef.com/problems/school?sort_by=SuccessfulSubmission&sorting_order=desc).
 These problems require only basic knowledge of programming (arrays, strings, loops) and math/logic.
-The problems with code beginning with `FLOW` are particularly easy and helpful in getting aquainted with submissions on online judges.
+The problems with the problem-code beginning with `FLOW` are particularly easy and helpful in getting acquainted with submissions on online judges.
 
 SPOJ is also a good place to start.
 There are problems there even for people who are new to programming.
@@ -145,13 +145,13 @@ If you have Linux or Mac, it is best to use:
 
 * gcc for C
 * gcc/g++ for C++
-* javac for Java (both oracle and openjdk are good)
+* javac for Java (both Oracle and OpenJDK are good)
 
 If you are on windows, you might want to use an IDE.
 Code::Blocks is good for C and C++.
 
 There are also some online compilers available.
-The most well known is [ideone](https://ideone.com/).
+The most well-known is [ideone](https://ideone.com/).
 Codechef has an online compiler called [code-compile-run](https://www.codechef.com/ide).
 
 ## Standard library
@@ -174,6 +174,6 @@ cplusplus.com has better explanations for these topics.
 Some people realize very late that C++ offers a [sort function](http://www.cplusplus.com/reference/algorithm/sort/).
 This is one of the most used functions in competitive programming.
 
-Links to documentation of other languages
+Links to documentation of other languages:
 * [Python library reference](https://docs.python.org/3/library/index.html)
 * [Java library reference](https://docs.oracle.com/javase/8/docs/api/overview-summary.html)
